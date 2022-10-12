@@ -1,8 +1,6 @@
 # Make It Real - Stats preview card component
 
-# Make It Real - NAME OF THE PROJECT
-
-This is a solution to the Stats preview card component project of the Make It Real course.
+git remote add origin https://github.com/NishiNegi/Stats-preview-card-component.git
 
 ## Table of contents
 
