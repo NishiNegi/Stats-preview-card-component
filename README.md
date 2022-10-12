@@ -1,5 +1,7 @@
 # Make It Real - Stats preview card component
 
+This is a solution to the Stats preview card component project of the Make It Real course.
+
 ## Table of contents
 
 - [Overview](#overview)
