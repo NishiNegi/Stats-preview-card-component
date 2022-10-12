@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![screenshot of the proyect](./images/screenshot.png)
 
 ## My process
 
