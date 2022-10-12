@@ -1,7 +1,5 @@
 # Make It Real - Stats preview card component
 
-git remote add origin https://github.com/NishiNegi/Stats-preview-card-component.git
-
 ## Table of contents
 
 - [Overview](#overview)
