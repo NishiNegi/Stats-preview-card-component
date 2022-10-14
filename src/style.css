@@ -8,6 +8,11 @@ body {
   color: white;
   font-size: 15px;
   font-family: "Inter", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  flex-direction: column;
 }
 #container {
   margin: 3em 1em;
@@ -66,6 +71,8 @@ p.text {
     margin: 5em;
     word-wrap: normal;
     align-content: stretch;
+    max-width: 80em;
+    text-align: left;
   }
   .img {
     background-image: url(../images/image-header-desktop.jpg);
@@ -81,6 +88,7 @@ p.text {
     max-width: 100%;
     padding: 0;
     margin: auto 0;
+    text-align: center;
   }
   .stats {
     margin: 0;
